@@ -108,7 +108,8 @@ int main()
  	
  	T[n-6] = time_taken;
  	
- 	//c_i calculation using given formula
+ 	//c_i calculation using formula Ci = T(INPUT_SIZE)/(INPUT_SIZE*log(INPUT_SIZE)) 
+    //when we plot these ci's then you will see for large INPUT_SIZE values of c_i's saturates i.e. algorithm is approximately n*log(n) 
  	C[n-6] = float(1.0*T[n-6]/nlogn[n-6]);
  	std::cout<<"("<<n<<","<<INPUT_SIZE<<","<<T[n-6]<<","<<nlogn[n-6]<<","<<C[n-6]<<")\n";
     }
