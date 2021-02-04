@@ -2,7 +2,6 @@
 ///  Author : Mahendra Kumar ///
 ///  Branch : M&C            ///
 ///  Date : 02-02-2021      ///
-///  Course Code : CS_222   ///
 //////////////////////////////
 
 //Header Files
