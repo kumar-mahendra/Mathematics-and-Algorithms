@@ -8,3 +8,5 @@ Exploring Various `Algorithms` I come across and then tried to `implement` them 
 - [`Merge-Sort`](https://github.com/kumar-mahendra/Mathematics_of_Scientific_Computing/blob/main/mergesort_new_way.cpp) - Using Original array to do sorting and thus reducing space complexity.
 
 - [`Quick-Sort`](https://github.com/kumar-mahendra/Mathematics_of_Scientific_Computing/blob/main/quicksort_with_random_pivoting.cpp) -  Using random pivoting technique  to sort array. 
+
+- [`Iterative-Methods`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/Iterative%20Methods.ipynb) - Demostrate Richardson & Jacobi Iterative methods .
