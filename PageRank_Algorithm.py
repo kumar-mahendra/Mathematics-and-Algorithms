@@ -1,5 +1,5 @@
 """
- Aim : Designing a  random web-network of 10 webpages and find its page-rank and order them 
+ Aim : Designing a  random web-network of n webpages and find its page-rank and order them 
 """
 
 # import libraries 
