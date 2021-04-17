@@ -10,3 +10,6 @@ Exploring Various `Algorithms` I come across and then tried to `implement` them 
 - [`Quick-Sort`](https://github.com/kumar-mahendra/Mathematics_of_Scientific_Computing/blob/main/quicksort_with_random_pivoting.cpp) -  Using random pivoting technique  to sort array. 
 
 - [`Iterative Alogirithms`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/Iterative%20Methods.ipynb) - Demostrate Richardson & Jacobi Iterative methods .
+
+- [`Page Rank Algorithm`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/PageRank_Algorithm.py) - Demonstrate implementation of simplified Google's Pagerank algorithm. Here I have generate random webpage network and rank them based on pagerank algorithm. you need to be familiar with eigenvectors/eigenvalues and power iterative method to understand this algorithm. 
+
