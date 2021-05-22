@@ -13,7 +13,7 @@ Exploring Various `Algorithms` I come across and then tried to `implement` them 
 
 - [`Page Rank Algorithm`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/PageRank_Algorithm.py) - Demonstrate implementation of simplified `Google's Pagerank algorithm`. Here I have generate random webpage network and rank pages based on pagerank algorithm. you need to be familiar with `eigenvectors/eigenvalues` and `power iterative method` to understand this algorithm. 
 
--[`(Batch) Gradient Descent Algorithm`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/Gradient_Descent_Algorithm.ipynb) - This is a popular algorithm to find opmized parameters in linear regression hypothesis function  in machine learning . 
+- [`(Batch) Gradient Descent Algorithm`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/Gradient_Descent_Algorithm.ipynb) - This is a popular algorithm to find opmized parameters in linear regression hypothesis function  in machine learning . 
 
 
 
