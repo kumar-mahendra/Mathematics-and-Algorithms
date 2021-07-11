@@ -5,10 +5,6 @@ Exploring Various `Algorithms` I come across and then tried to `implement` them 
 
 - [`Thomas Algorithm`](https://github.com/kumar-mahendra/Mathematics_of_Scientific_Computing/blob/main/Thomas%20Algorithm.ipynb) - An special case of Naive Gauss when system is tridiagoal matrix . i.e. except superdiagonal, maindiagonal, sub-diagonal all entries are zero. Time complexity is O(N) .
 
-- [`Merge-Sort`](https://github.com/kumar-mahendra/Mathematics_of_Scientific_Computing/blob/main/mergesort_new_way.cpp) - Using Original array to do sorting and thus reducing space complexity.
-
-- [`Quick-Sort`](https://github.com/kumar-mahendra/Mathematics_of_Scientific_Computing/blob/main/quicksort_with_random_pivoting.cpp) -  Using random pivoting technique  to sort array. 
-
 - [`Iterative Alogirithms`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/Iterative%20Methods.ipynb) - Demostrate Richardson & Jacobi Iterative methods .
 
 - [`Page Rank Algorithm`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/PageRank_Algorithm.py) - Demonstrate implementation of simplified `Google's Pagerank algorithm`. Here I have generate random webpage network and rank pages based on pagerank algorithm. you need to be familiar with `eigenvectors/eigenvalues` and `power iterative method` to understand this algorithm. 
