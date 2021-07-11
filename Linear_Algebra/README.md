@@ -1,15 +1,23 @@
-Exploring Various `Algorithms` I come across and then tried to `implement` them using some `programming language` in a way it can be easily understood.
+# Algorithms in linear algebra
 
- ### Table of Contents
-- [`Naive Gauss Elimination Algorithm`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/Naive%20Gauss%20Elimination%20method.ipynb) - This Algorithm can be used to solve a system of equation of form Ax = b , where A is invertible and diagonal entries are non-zero. To know more I will prefer [NPTEL lecture](https://nptel.ac.in/content/storage2/courses/122104019/numerical-analysis/kadalbajoo/lec1/fnode5.html)
+1.  `Naive gauss algorithm`   
+    - Used to solve system of equation of form Ax = b  where A is invertible 
+    - Time complexity : O(N^2)
 
-- [`Thomas Algorithm`](https://github.com/kumar-mahendra/Mathematics_of_Scientific_Computing/blob/main/Thomas%20Algorithm.ipynb) - An special case of Naive Gauss when system is tridiagoal matrix . i.e. except superdiagonal, maindiagonal, sub-diagonal all entries are zero. Time complexity is O(N) .
+2. `Thomas algorithm` 
+    - A special case of naive gauss algorithm 
+    - Used to solve system of equation of type Ax = b where A is tridiagonal matrix with one additional condition 
+    - Time complexity : O(N)
 
-- [`Iterative Alogirithms`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/Iterative%20Methods.ipynb) - Demostrate Richardson & Jacobi Iterative methods .
+3. `Iterative algorithms` 
+    - Richarson method 
+    - Jacobi method 
 
-- [`Page Rank Algorithm`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/PageRank_Algorithm.py) - Demonstrate implementation of simplified `Google's Pagerank algorithm`. Here I have generate random webpage network and rank pages based on pagerank algorithm. you need to be familiar with `eigenvectors/eigenvalues` and `power iterative method` to understand this algorithm. 
+4. `Page rank algorithm` 
+    - Simple version of **Google's pagerank algorithm**
+    - Rank webpages based on their pagerank 
+    - pre-requisites : knowledge of eigen-values and power-iterative method 
 
-- [`(Batch) Gradient Descent Algorithm`](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/Gradient_Descent_Algorithm.ipynb) - This is a popular algorithm to find opmized parameters in linear regression hypothesis function  in machine learning . 
-
-
+5. `(Batch)_gradient_descent_algorithm` 
+    - Used to find optimize parameters of linear hypothesis function in machine learning 
 
