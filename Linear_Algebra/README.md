@@ -1,4 +1,4 @@
-# Algorithms in linear algebra
+### Algorithms in linear algebra
 
 1.  `Naive gauss algorithm`   
     - Used to solve system of equation of form Ax = b  where A is invertible 
